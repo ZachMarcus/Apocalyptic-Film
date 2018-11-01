@@ -9,7 +9,9 @@
   },
   "peerDependencies": {
     "d3": "^3.5.17",
-    "patternfly": "^3.25.0"
+    "patternfly": "^3.25.0",
+    "webpack": "1.12.2",
+    "webpack-dev-server": "1.11.0"
   },
   "devDependencies": {
     "babel-core": "6.4.5",
@@ -35,9 +37,7 @@
     "mocha": "1.21.4",
     "mocha-traceur": "2.1.0",
     "scss-loader": "0.0.1",
-    "style-loader": "0.12.4",
-    "webpack": "1.12.2",
-    "webpack-dev-server": "1.11.0"
+    "style-loader": "0.12.4"
   },
   "bugs": {
     "url": "https://github.com/himdel/patternfly-timeline/issues"
