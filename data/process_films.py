@@ -57,10 +57,10 @@ def generate_film(film):
     output is a string for the javascript
     side effect is tries to add the subgenre to the list of subgenres
     '''
-    film_title = film[0]
+    film_title = film[0].replace('"', '\'')
     film_year = film[1]
     film_subgenre = film[2]
-    film_commentary = film[3]
+    film_commentary = film[3].replace('"', '\'')
     if film_subgenre not in list_of_subgenres:
         list_of_subgenres.append(film_subgenre)
     group_id = list_of_subgenres.index(film_subgenre) + 1
