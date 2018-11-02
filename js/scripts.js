@@ -9,7 +9,8 @@
     margin: {
       item: 20,
       axis: 40
-    }
+    },
+    height: 800
   };
 
   var timeline = new vis.Timeline(container, items, groups, options);
