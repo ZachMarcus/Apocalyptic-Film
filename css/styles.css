@@ -8,17 +8,17 @@ body {
 
 
 .vis-timeline {
-  border: 2px solid purple;
+  border: 2px solid #1f2428; /* outline of timeline */
   font-family:  Gills Sans Extrabold, sans-serif; /*purisa, 'comic sans', cursive;*/
   font-size: 12pt;
-  background: #ffecea; /* this is the background color of the timeline */
+  background: #f6f8f0; /* this is the background color of the timeline */
 }
 
 .vis-item {
-  border-color: #F991A3; /* this is the color of the vertical lines of an item */
-  background-color: pink; /* color of the background of a given item box */
+  border-color: #6d735e; /* this is the color of the vertical lines of an item */
+  background-color: #fcf8de; /* color of the background of a given item box */
   font-size: 15pt;
-  color: purple; /* color of the text within the item boxes */
+  color: #1f2428; /* color of the text within the item boxes */
   box-shadow: 5px 5px 20px rgba(128,128,128, 0.5);
 }
 
@@ -33,12 +33,12 @@ body {
 }
 
 .vis-item.vis-selected {
-  border-color: green; /* vertical lines and border when clicked on */
-  background-color: lightgreen; /* background of an item box when clicked on */
+  border-color: #16180b; /* vertical lines and border when clicked on */
+  background-color: #afcbdd; /* background of an item box when clicked on */
 }
 
 .vis-time-axis .vis-text {
-  color: purple; /* color of numbers in time scale */
+  color: #1f2428; /* color of numbers in time scale */
   padding-top: 10px;
   padding-left: 10px;
 }
@@ -49,11 +49,11 @@ body {
 
 .vis-time-axis .vis-grid.vis-minor {
   border-width: 2px;
-  border-color: pink; /* color of vertical lines in the time scale */
+  border-color: #1f2428; /* color of vertical lines in the time scale */
 }
 
 .vis-time-axis .vis-grid.vis-major {
   border-width: 2px;
-  border-color: #F991A3; /* I can't find where this is */
+  border-color: #6d735e; /* Ican't find where this is */
 }
 

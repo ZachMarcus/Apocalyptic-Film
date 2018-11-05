@@ -16,6 +16,8 @@ For each film, watch a trailer if available, read a critic's review, and read th
 
 Identify important events which might have effects on film production and themes.
 
+Then display those using vanilla web technologies + vis.js, without babel, ES6, AOT, fun web frameworks, or the like.
+
 A potential future improvement could be to process film data programmatically, using NLTK or similar library for NLP.
 
 
