@@ -14,7 +14,7 @@ var items = new vis.DataSet([
   // societal events, requiring start and end
 '''
 # then societal events
-societal_events = ''
+events = ''
 # then a comment
 intermediary = '''
   // films
@@ -48,6 +48,17 @@ def get_subgenres():
     ret += subgenre_ending
     return ret
 
+def generate_event(event):
+    event_title = event[0]
+    event_start = event[1]
+    event_end = event[2]
+    ret = '{{type: \'background\', start: new Date({}, 0), end: new Date({}, 0), content: "{}"}},'.format(
+        event_start,
+        event_end,
+        event_title)
+    #print(ret)
+    return ret
+
 
 def generate_film(film):
     '''
@@ -76,6 +87,15 @@ def generate_film(film):
     return ret
 
 
+with open('events.csv') as event_file:
+    events_reader = csv.reader(event_file, delimiter=',')
+    is_header = True
+    for event in events_reader:
+        if is_header:
+            is_header = False
+            continue
+        events += generate_event(event)
+
 with open('films.csv') as film_file:
     film_reader = csv.reader(film_file, delimiter=',')
     is_header = True
@@ -88,7 +108,7 @@ with open('films.csv') as film_file:
     films = films[:-1] # remove the last trailing comma
 
     # write out films and background events to file
-    output = instantiation + societal_events + intermediary + films + closing
+    output = instantiation + events + intermediary + films + closing
     with open('films.js', 'w+') as films_js:
         films_js.write(output)
 
