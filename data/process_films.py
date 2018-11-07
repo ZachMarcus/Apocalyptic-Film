@@ -42,7 +42,7 @@ list_of_subgenres = []
 def get_subgenres():
     ret = subgenre_instantiation
     for index, subgenre in enumerate(list_of_subgenres):
-        ret += '{{id: {}, content: "{}"}},'.format(
+        ret += '{{id: {}, visible: true, content: "{}"}},'.format(
             index + 1,
             subgenre)
     ret += subgenre_ending

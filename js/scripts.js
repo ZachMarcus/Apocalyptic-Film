@@ -10,8 +10,32 @@
       item: 20,
       axis: 40
     },
-    height: 800
+    height: 800,
+    // groupOrder
+    //groupOrder: function (a, b) { return a.value - v.value; },
+    //groupOrderSwap: function (a, b, groups) { var v = a.value; a.value = b.value; b.value = v; },
+    groupTemplate: function(group) {
+      var container = document.createElement('div');
+      var label = document.createElement('span');
+      label.innerHTML = group.content + ' ';
+      container.insertAdjacentElement('afterBegin', label);
+      var hide = document.createElement('button');
+      hide.innerHTML = 'hide';
+      hide.style.fontSize = 'small';
+      hide.addEventListener('click', function() {
+        groups.update({id: group.id, visible: false});
+      });
+      container.insertAdjacentElement('beforeEnd', hide);
+      return container;
+    }
+
   };
 
   var timeline = new vis.Timeline(container, items, groups, options);
 })();
+
+function showAllGroups() {
+  groups.forEach(function(group) {
+    groups.update({id: group.id, visible: true});
+  })
+};
