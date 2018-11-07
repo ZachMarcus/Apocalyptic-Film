@@ -25,6 +25,7 @@
       hide.addEventListener('click', function() {
         groups.update({id: group.id, visible: false});
       });
+      hide.className = 'btn btn-danger';
       container.insertAdjacentElement('beforeEnd', hide);
       return container;
     }
