@@ -1,7 +1,7 @@
 Film (American),Year,Subgrenre,Notes
 Deluge,1933,Natural Disaster,"Heaviliy Religious, Genesis 9:11"
-The Day the Earth Stood Still,1951,Aliens,Religious Metaphors
 Five,1951,Post-Atomic War,"Unknown, uncertain future"
+The Day the Earth Stood Still,1951,Aliens,Religious Metaphors
 When Worlds Collide,1951,Aliens,"Also Natural Disasters (tsunamis, etc)"
 Robot Monster,1953,Aliens,Advanced Tech
 The War of the Worlds,1953,Aliens,"Religious, Praying, etc"
@@ -10,14 +10,14 @@ Kiss Me Deadly,1955,Atomic War,Alternative ending where they all die
 Forbidden Planet,1956,Technological Advancement,"""We are not God"""
 Invasion of the Body Snatchers,1956,Aliens,Anti-Communist Subplots
 World Without End,1956,Post-Atomic War,Peaceful vs violent societies
-The Lost Missile,1958,Atomic War,During rather than after
 The Blob,1958,Aliens,Ends in environmental destruction hint
+The Lost Missile,1958,Atomic War,During rather than after
 "The World, the Flesh, and the Devil",1959,Post-Atomic War,Hopeful New Beginnings
 Beyond the Time Barrier,1960,Post-Atomic War,Time Travel
 Last Woman on Earth,1960,Biological Plague,"Unknown, uncertain future"
 The Time Machine,1960,Post-Atomic War,Explores what it means to be human
-The Creation of the Humanoids,1962,Post-Atomic War,Explores what it means to be human
 Panic in Year Zero!,1962,Atomic War,Hopeful rebirth of humanity
+The Creation of the Humanoids,1962,Post-Atomic War,Explores what it means to be human
 This Is Not a Test,1962,Atomic War,Height of Cold War
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Atomic War,Satirical; lawsuit regarding similarity to Failsafe
 Fail Safe,1964,Atomic War,Similar to the Bedford Incident; lawsuit regarding similarity to Dr. Strangelove
@@ -32,13 +32,13 @@ Beneath the Planet of the Pes,1970,Atomic War,Destruction of Earth
 Colossus: The Forbin Project,1970,Technological Advancement,Similar to The Day the Earth Stood Still
 Gas-s-s-s,1970,Biological Plague,Heavily religious
 No Blade of Grass,1970,Biological Plague,Humanity will destroy itself (and TW)
-The Andromeda Strain,1971,Biological Plague,"Unknown, uncertain future"
 Escape from the Planet of the Apes,1971,Atomic War,Humanity will destroy itself
 Glen and Randa,1971,Post-Atomic War,Hopeful rebirth of humanity
+The Andromeda Strain,1971,Biological Plague,"Unknown, uncertain future"
 The Omega Man,1971,Biological Plague,"Based on 1954 novel ""I Am Legend"" along with 3 other films; unknown, uncertain future"
+A Thief in the Night,1972,Rapture,Strict giving of oneself to Jesus vs the Antichrist
 Beware! The Blob,1972,Aliens,Environmental destruction commentary
 Conquest of the Planet of the Apes,1972,Post-Atomic War,Explores what it means to be human
-A Thief in the Night,1972,Rapture,Strict giving of oneself to Jesus vs the Antichrist
 Silent Running,1972,Environmental Destruction,"Unknown, uncertain future"
 Battle for the Planet o the Apes,1973,Post-Atomic War,"Achieved peace, but war will come again"
 Soylent Green,1973,Environmental Destruction,Humanity will destroy itself
@@ -51,11 +51,11 @@ Logan's Run,1976,Technological Advancement,Hopeful rebirth of humanity
 Damnation Alley,1977,Atomic War,Offers a commentary on environmental destruction as well
 End of the World,1977,Aliens,Heavy religious influences
 Wizards,1977,Post-Atomic War,Plays on fears of a Nazi-like group coming to power again
-Dawn of the Dead,1978,Zombie Plague,"Unknown, uncertain future"
 A Distant Thunder,1978,Rapture,Sequel to A Thief in the Night; Christ vs. the Antichrist
+Dawn of the Dead,1978,Zombie Plague,"Unknown, uncertain future"
 Invasion of the Body Snatchers,1978,Aliens,Anti-Communist Subplots
-"The Late, Great Planet Earth",1979,Rapture,Capitalized on fears of global conflict
 Ravagers,1979,Post-Atomic War,Humanity will destroy itself
+"The Late, Great Planet Earth",1979,Rapture,Capitalized on fears of global conflict
 Flash Gordon,1980,Aliens,"Unknown, uncertain future"
 Escape from New York,1981,Atomic War,Humanity will destroy itself
 Image of the Beast,1981,Rapture,"Strict giving of oneself to Jesus vs the Antichrist; third installment of ""A Thief in the Night"""
@@ -67,64 +67,116 @@ Night of the Comet,1984,Zombie Plague,"The rain leaves the Earth clean, born ane
 The Terminator,1984,Technological Advancement,Explores the dangers of AI
 Land of Doom,1986,Post-Atomic War,The conflict of the world will never end
 Cherry 2000,1987,Technological Advancement,Explores what it means to be human
-Steel Dawn,1987,Post-Atomic War,Hopeful rebirth of humanity
 Prince of Darkness,1987,Revelation,Features a physics and time-travel-based version of Satan and the Anti-Christ
+Steel Dawn,1987,Post-Atomic War,Hopeful rebirth of humanity
 Hell Homes to Frogtown,1988,Post-Atomic War,This film features sex in a very prominent light and maintains a strong cult following
 Miracle Mile,1988,Atomic War,Offers a commentary on the fleetingness of life
 The Seventh Sign,1988,Revelation,Emphasizes the need to give oneself to Christ
-The Blood of Heroes,1989,Post-Atomic War,Criticizes emerging aristocracies
 Cyborg,1989,Biological Plague,"Comparisons to Christ - the protagonist is crucified, but returns to deliver the cure"
 Millenium,1989,Environmental Destruction,This film ends with a Winston Churchill quote signifying the work that must sitll be done to save humanity (and the environment)
+The Blood of Heroes,1989,Post-Atomic War,Criticizes emerging aristocracies
 By Dawn's Early Light,1990,Atomic War,One of the last WWIII-themed films of the Cold War
 Circuitry Man,1990,Environmental Destruction,Bears strong resemblances to Blade Runner
-The Handmaid's Tale,1990,Environmental Destruction,"Unknown, uncertain future"
 Hardware,1990,Technological Advancement,"The government's villainous robots, the M.A.R.K. 13s, are inspired by Mark 13:20: ""No flesh shall be spared"""
 Solar Crisis,1990,Natural Disaster,Bears strong resemblances to that later films of Deep Impact and Armageddon
-The Rapture,1991,Rapture,"Is a simple depiction of the final judgment, with a socially conservative view of Christianity"
+The Handmaid's Tale,1990,Environmental Destruction,"Unknown, uncertain future"
 Terminator 2: Judgment Day,1991,Technological Advancement,Explores the dangers of AI and the value of human life
+The Rapture,1991,Rapture,"Is a simple depiction of the final judgment, with a socially conservative view of Christianity"
 Split Second,1992,Environmental Destruction,"Combines film noir with an otherworldly evil creature and leaves the world with an unknown, uncertain futures"
 In the Mouth of Madness,1994,Psychological Plague,This very Lovecraftian horror is a trip; I actually watched this one and it features strange monsters and psychological thrills; contains some condemnation of consumerism
 12 Monkeys,1995,Biological Plague,12 Monkeys mocks environmental destruction and also features an unreliable perspective from the psychologically damaged protagonist
 Judge Dredd,1995,Technological Advancement,Has political overtones and a commentary on the American judicial system
-The Prophecy,1995,Revelation,Comments on the nature of faith and what it means to be human
 Sentinel 2099,1995,Biological Plague,Comments on the hope for the future of humanity; also shoehorns in an alien villain in a similar manner to Invasion of the Body Snatchers
 Tank Girl,1995,Natural Disaster,Has strong antiestablishment themes and is considered to be a true feminist cult-film
+The Prophecy,1995,Revelation,Comments on the nature of faith and what it means to be human
 Waterworld,1995,Environmental Destruction,"Directly criticizes Exxon and their largest spill, the Exxon Valdez"
-The Arrival,1996,Aliens,Features environmental destruction as well as alien invasion
 Escape from L.A.,1996,Technological Advancement,"Harsh criticism of American relations with other countries, particularly third-world countries; sequel to Escape from New York"
 Independence Day,1996,Aliens,Has nationalistic overtones and is fairly obviously racist and sexist
+The Arrival,1996,Aliens,Features environmental destruction as well as alien invasion
 Future Fear,1997,Aliens,The true villain is actually a group of Neo-Nazis
 Armageddon,1998,Natural Disaster,Hopeful rebirth of humanity
 Deep Impact,1998,Natural Disaster,"Hopeful rebirth of humanity; Was a direct competitor to Armageddon, as they both feature the same plot and resolution"
-The Prophecy II,1998,Revelation,"Comments on the nature of faith and what it means to be human, using a half-human half-angel to explore humanity"
 Six-String Samurai,1998,Post-Atomic War,Is a battle between good and an irreligious Death; pays homage to a variety of musical movements of the US
+The Prophecy II,1998,Revelation,"Comments on the nature of faith and what it means to be human, using a half-human half-angel to explore humanity"
 Dogma,1999,Revelation,Emphasizes the need to give oneself to Christ; Jay and Silent Bob provide comedic relief
 End Days,1999,Revelation,Emphasizes the need to give oneself to Christ
 The Matrix,1999,Technological Advancement,"This cyberpunk classic draws heavily from religion, with Neo's rebirth serving as one of the largest Christianity-inspired moments; also comments on our heavily commericalized developed society"
 The Omega Code,1999,Revelation,Emphasizes the need to give oneself to Christ
+Fail Safe,2000,Atomic War,"As a remake to the 1964 film, this was interestingly shot in black and white; it still bears similarities to the Bedford Incident"
 The Prophecy 3: The Ascent,2000,Revelation,Third installment in this exploration of faith and humanity
-Terminator 3: Rise of the Machines,2003,Technological Advancement,Explores the dangers of AI
-The Prophecy: Uprising,2005,Revelation,Fourth installment in the Prophecy series; this one forebodes a final fight to come before leading to Armageddon
-The Prophecy: Forsaken,2005,Revelation,"Final installment in the Prophecy series; concludes in a balance between in the defeat of the evil angels, and a balance in the world between heaven and hell"
-Terminator Salvation,2009,Technological Advancement,Explores the dangers of AI and nuclear warfare
-Terminator Genisys,2015,Technological Advancement,"Is a reboot of Terminator, exploring the same dangers of AI and featuring a more involved time-travel theory"
-Shaun of the Dead,2004,Zombie Plague,"Serves as a satirical apocalyptic movie, with heavy references to films such as ""Dawn of the Dead"""
-Southland Tales,2006,Technological Advancement,Was altered post-9/11 to address the issues of civil liberty vs homeland security
-The Time Machine,2002,Post-Atomic War,Presents a dreary look at the helplessness of the human condition
 Titan A.E.,2000,Technological Advancement,"While technology causes the destruction of Earth in this film, it is also the conduit through which humanity will be reborn"
-WALL-E,2008,Environmental Destruction,"Though an animated Pixar film, WALL-E has criticisms of consumerism, major corporations, and human environmental impact"
+A.I Artifical Intelligence,2001,Environmental Destruction,"The protagonist may be artificial, but the humans' self-destruction that the viewer catches glimpses of stems from pollution and global warming"
+Final Fantasy: The Spirits Within,2001,Aliens,"Offers some themes of environmental stewardship and humanity's inability to be responsible, but is most notable for being the first photorealistic animated film"
+Megiddo: The Omega Code 2,2001,Revelation,"As a half-prequel, half-sequel to the 1999 Omega Code, this film continues to emphasize the need to give oneself to Christ in the most overt manner"
+Reign of Fire,2002,Monsters,Ends with humanity picking up the pieces and rebuilding civilization
+Resident Evil,2002,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation
+The Time Machine,2002,Post-Atomic War,Presents a dreary look at the helplessness of the human condition
+Dreamcatcher,2003,Aliens,"There is some criticism of American military force here, but it is overshadowed by this film's poor adaptation of the Stephen King novel"
+Terminator 3: Rise of the Machines,2003,Technological Advancement,Explores the dangers of AI
+The Core,2003,Natural Disaster,"This is the consensus worst science-fiction film in terms of accuracy to have ever been produced in Hollywood, but at least it's visually thrilling"
+Dawn of the Dead,2004,Zombie Plague,"As a remake of the 1978 feature of the same name, this shares much of the same work, though the zombies are conceived of differently"
+Resident Evil: Apocalypse,2004,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation
+Shaun of the Dead,2004,Zombie Plague,"Serves as a satirical apocalyptic movie, with heavy references to films such as ""Dawn of the Dead"""
+The Day After Tomorrow,2004,Natural Disaster,"The weak executive branch members, in particular the vice-president's resemblance to Dick Cheney, criticized the Bush administration's climate change policy"
+Æon Flux,2005,Biological Plague,This film uses the concept of cloning to explore humanity and its path to rebuilding after a virus all but wipes humanity from Earth
+Land of the Dead,2005,Zombie Plague,"The second film of the ""Dawn of the Dead"" reboot offers a fair amount of criticism of classicism"
+The Prophecy: Forsaken,2005,Revelation,"Final installment in the Prophecy series; concludes in a balance between in the defeat of the evil angels, and a balance in the world between heaven and hell"
+The Prophecy: Uprising,2005,Revelation,Fourth installment in the Prophecy series; this one forebodes a final fight to come before leading to Armageddon
 War of the Worlds,2005,Aliens,"Bears resemblance to Independence Day, with additional inspiration drawn from post-9-11 attack hysteria and human behavior"
+Children of Men,2006,Biological Plague,There is a fair amount of political commentary along with an exploration of the behavior of a society in its final death throes
+Idiocracy,2006,Psychological Plague,"Classifying this film is difficult, as it points towards the fall of humanity being caused by anti-intellectualism and over-commercialism"
+Right at Your Door,2006,Atomic War,Depicts the government as one of the people's most dangerous enemies and criticizes the media's need to cover news even at the cost of misinformation
+Southland Tales,2006,Technological Advancement,Was altered post-9/11 to address the issues of civil liberty vs homeland security
+I Am Legend,2007,Biological Plague,"Based on 1954 novel ""I Am Legend"" along with 3 other films; differs by ending with a potential cure via divine intervention, a religious depature from the original"
+Planet Terror,2007,Zombie Plague,This is the most absurdist rehash of old 70s-style B movies with a healthy serving of gore and a strong undercurrent of female empowerment
+Resident Evil: Extinction,2007,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation; explores what is means to be human through the discovery of human cloning
+The Invasion,2007,Aliens,"A new take on ""Invasion of the Body Snatchers"" with a social politics slant, this film was majorly panned as derisive and lacking in substance"
+28 Days Later,2008,Aliens,"This version of Klaatu, compared to the the 1951 version, is much easier to accept as a villain, to the point that I think it takes away from the original's brilliance"
+Cloverfield,2008,Monsters,"The series of 3 cloverfield films explore the perils of technological advancement of world-endangering potential, with some psychological thrills thrown in"
+Day of the Dead,2008,Zombie Plague,"Another film in the ""Dawn of the Dead"" reboot, this one reflects on the conflicts between science and the military"
+The Happening,2008,Environmental Destruction,"Criticizes human-based destruction of the environment, offering a warning and concluding with a promise of further environmental retaliation"
+WALL-E,2008,Environmental Destruction,"Though an animated Pixar film, WALL-E has criticisms of consumerism, major corporations, and human environmental impact"
+9,2009,Technological Advancement,"As one of the few animated films to appear in this list, ""9"" is still reasonably for adults, with some stunning visuals and some light commentary on life's ability to go on"
+2012,2009,Natural Disaster,"While offering little beyond visual effects of a massive geological disaster, this film did well at the box office and has one of the most destructive depictions of natural disasters"
+Carriers,2009,Biological Plague,"The viewer is left wondering if the protagonist Danny will survive, and by extension whether humanity will ever manage to find a cure for the epidemic"
+KNOW1NG,2009,Natural Disaster,"Contrasts the destruction of Earth and its inhabitants with the Revelation-like rebirth of society, complete with a scene of Adam and Eve"
+Pandorum,2009,Psychological Plague,This Lovecraftian horror features psychosis and a lingering hope for the rebirth of humanity
+Terminator Salvation,2009,Technological Advancement,Explores the dangers of AI and nuclear warfare
+The Road,2009,Post-Atomic War,Condems humanity for its arrogance and misuse of the Earth's natural resources
 Watchmen,2009,Atomic War,"The comic series this is based on was written while the Cold War was still in full swing; as such, this film plays upon those fears and explores the cost of peace"
 Zombieland,2009,Zombie Plague,"Zombieland explores human identity and what makes us human in the most comedic of ways; there's a sequel scheduled for October 11, 2019!"
-Reign of Fire,2002,Dragons,Ends with humanity picking up the pieces and rebuilding civilization
-Resident Evil,2002,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation
-Resident Evil: Apocalypse,2004,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation
-Resident Evil: Extinction,2007,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation; explores what is means to be human through the discovery of human cloning
+Legion,2010,Revelation,"As in most revelation films, emphasizes the need for sacrifice and for faith"
 Resident Evil: Afterlife,2010,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation; explores what it means to be human through the memories of the protagonist Alice
+Skyline,2010,Aliens,"Has several similarities to ""Battle: Los Angeles""; has rapture-like visuals and approaches the alien invasion differently than other contemporary films"
+The Book of Eli,2010,Post-Atomic War,"The apocalypse may have been caused by atomic war, but there is no mistaking it - this film draws very heavily on Christian beliefs and themes"
+Battle: Los Angeles,2011,Aliens,"Another action film, with notable realism to real-world combat"
 Resident Evil: Retribution,2012,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation
+Seeking a Friend for the End of the World,2012,Natural Disaster,Romantic comedy that focuses on the social behaviors and human responses to an actual apocalypse
+The Hunger Games,2012,Environmental Destruction,Carries themes and criticisms of class divides and authoritarian governments
+After Earth,2013,Aliens,"Has parallels with the religion of Scientology, as well as shoehorning in themes of environmental destruction"
+Oblivion,2013,Aliens,"Warns of the dangers of blind obedience, especially to governmental powers, as well as the dangers of drone warfare"
+Pacific Rim,2013,Monsters,"The premise of this apocalypse is interdimensional interference, so the simplistic solution is for humanity to band together against this common enemy"
+Rapture Palooza,2013,Rapture,This cheap comedy draws on the relative success of religiously-themed films to add a little levity to the genre
+The Hunger Games: Catching Fire,2013,Environmental Destruction,Carries themes and criticisms of class divides and authoritarian governments
+This Is the End,2013,Rapture,"This film is a self-aware one, commenting on America's Hollywood culture and drawing on Christian religious beliefs"
+Warm Bodies,2013,Zombie Plague,"This is the only true romantic comedy zombie film in this list, drawing on both classic apocalyptic zombie ideas and Romeo and Juliet"
+World War Z,2013,Zombie Plague,"Presents humanity as resourceful and resilient, and capable of surviving any such apocalypse"
+Edge of Tomorrow,2014,Aliens,"Another action-based alien invasion thriller, with the added slants of an attempted actually-empowered female character and nods to the video game genre"
+Godzilla,2014,Monsters,Shows nature revolting from humanity's behavior but lacks the social commentary other takes have had with regards to nuclear weaponry
+Interstellar,2014,Environmental Destruction,Explores the sustainability of humanity and humanity's own capacity for evil
+Noah,2014,Revelation,"Includes major biblical themes such as sin, judgment, and the concept of evolutionary creation"
+The Hunger Games: Mockingjay - Part 1,2014,Environmental Destruction,Carries themes and criticisms of class divides and authoritarian governments
+The Maze Runner,2014,Natural Disaster,"The Maze Runner series is fairly simple for its young audience, but provides some commentary on ethical use of science and technology"
+Mad Max: Fury Road,2015,Environmental Destruction,"Has strong references to Revelations, with exact character matches to the Four Horsemen"
+Maze Runner: The Scorch Trials,2015,Natural Disaster,"The Maze Runner series is fairly simple for its young audience, but provides some commentary on ethical use of science and technology"
+Terminator Genisys,2015,Technological Advancement,"Is a reboot of Terminator, exploring the same dangers of AI and featuring a more involved time-travel theory"
+The Hunger Games: Mockingjay - Part 2,2015,Environmental Destruction,Carries themes and criticisms of class divides and authoritarian governments
+10 Cloverfield Lane,2016,Monsters,"The series of 3 cloverfield films explore the perils of technological advancement of world-endangering potential, with some psychological thrills thrown in"
 Resident Evil: The Final Chapter,2016,Zombie Plague,Refreshes the zombie genre with a strong anti-corporate message through the disturbing activities of the Umbrella corporation; ends with the hopeful rebirth of humanity
-The Road,2009,Post-Atomic War,Condems humanity for its arrogance and misuse of the Earth's natural resources
-Right at Your Door,2006,Atomic War,Depicts the government as one of the people's most dangerous enemies and criticizes the media's need to cover news even at the cost of misinformation
-Planet Terror,2007,Zombie Plague,This is the most absurdist rehash of old 70s-style B movies with a healthy serving of gore and a strong undercurrent of female empowerment
-Pandorum,2009,Psychological Plague,This Lovecraftian horror features psychosis and a lingering hope for the rebirth of humanity
-Megiddo: The Omega Code 2,2001,Revelation,"As a half-prequel, half-sequel to the 1999 Omega Code, this film continues to emphasize the need to give oneself to Christ in the most overt manner"
+Blade Runner: 2049,2017,Technological Advancement,Explores what it means to be human
+Geostorm,2017,Natural Disaster,Offers absolutely zero commentary or use beyond the decade's trend of action-packed simplistic films
+Thor: Ragnarok,2017,Aliens,A rare film in this list as one that draws much more heavily on Norse mythology than an Abrahamic religion
+A Quiet Place,2018,Monsters,"Plays with sound and visuals, with an interesting take on the difficulties of parenting"
+Avengers: Infinity War,2018,Aliens,"Was really just an action film, with some exploration of utilitarianism"
+Maze Runner: THe Death Cure,2018,Natural Disaster,"The Maze Runner series is fairly simple for its young audience, but provides some commentary on ethical use of science and technology"
+The Cloverfield Paradox,2018,Monsters,"The series of 3 cloverfield films explore the perils of technological advancement of world-endangering potential, with some psychological thrills thrown in"

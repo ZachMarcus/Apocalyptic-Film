@@ -37,14 +37,15 @@ subgenre_ending = '''
 ]);
 '''
 
-list_of_subgenres = []
+list_of_subgenres = ['Societal Event']
 
 def get_subgenres():
     ret = subgenre_instantiation
+    ordering = 1
     for index, subgenre in enumerate(list_of_subgenres):
-        ret += '{{id: {}, visible: true, content: "{}"}},'.format(
-            index + 1,
-            subgenre)
+        ret += '{{id: {}, visible: true, content: "{}", value: {}}},'.format(
+            index + 1, subgenre, ordering)
+        ordering += 1
     ret += subgenre_ending
     return ret
 
@@ -52,11 +53,29 @@ def generate_event(event):
     event_title = event[0]
     event_start = event[1]
     event_end = event[2]
-    ret = '{{type: \'background\', start: new Date({}, 0), end: new Date({}, 0), content: "{}"}},'.format(
-        event_start,
-        event_end,
-        event_title)
+    #ret = '{{type: \'background\', start: new Date({}, 0), end: new Date({}, 0), content: "{}"}},'.format(
+    #    event_start,
+    #    event_end,
+    #    event_title)
     #print(ret)
+    # treat events like other films in order to display them appropriately
+    # this is to prevent overlap issues with vis.js
+    film_subgenre = 'Societal Event'
+    group_id = list_of_subgenres.index(film_subgenre) + 1
+
+    if event_start != event_end:
+        ret = '{{start: new Date({}, 0), end: new Date({}, 0), title: "{}", content: "{}", group: {}}},'.format(
+            event_start,
+            event_end,
+            event_title,
+            event_title,
+            group_id)
+    else:
+        ret = '{{start: new Date({}, 0), content: "{}", group: {}}},'.format(
+            event_start,
+            event_title,
+            group_id)
+
     return ret
 
 
