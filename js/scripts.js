@@ -11,13 +11,13 @@
       axis: 40
     },
     height: 800,
-    min: new Date(1930, 0, 0),
-    max: new Date(2022, 0, 0),
+    min: new Date(1920, 0, 0),
+    max: new Date(2025, 0, 0),
     zoomMin: 1000 * 60 * 60 * 24 * 31 * 12 * 4, // about 4 years, milliseconds
     tooltip: {
       followMouse: true
     },
-    //groupOrder: function (a, b) { return a.value - v.value; },
+    groupOrder: function (a, b) { return a.value - b.value; },
     //groupOrderSwap: function (a, b, groups) { var v = a.value; a.value = b.value; b.value = v; },
     groupTemplate: function(group) {
       var container = document.createElement('div');
