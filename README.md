@@ -1,6 +1,11 @@
 # Apocalyptic Film
 
-[Site Here](https://apocalyptic-film-phil.herokuapp.com/index.html)
+[Site Here](https://zmarcus.com/Apocalyptic-Film/)
+
+## About
+A high-level timeline showcasing apocalyptic films as they fall within larger societal events and eras - more xenophobia after 9/11, the popularity of environmental disaster as a topic of discussion throughout the cold war - you get the idea.
+
+Also, a project from a university course on those sorts of films that I couldn't take down after the time I spent on this.
 
 
 ## Methodology
